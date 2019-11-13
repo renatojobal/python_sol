@@ -1,0 +1,9 @@
+INFO:root:Mensaje de prueba
+INFO:root:Tiempo requerido para ./bin-to-decimal.wmv = 0.001997232437133789
+INFO:root:Tiempo requerido para ./bin-to-decima.wmv = 0.0
+INFO:root:Tiempo requerido para ./bin-to-decima.wmv = 0.0009982585906982422
+INFO:root:Tiempo requerido para ./bin-to-decima.wmv = 0.0010068416595458984
+ERROR:root:[Errno 2] No such file or directory: './bin-to-decima.wmv'
+INFO:root:Tiempo requerido para ./bin-to-decima.wmv = 0.0009572505950927734
+INFO:root:Tiempo requerido para ./bin-to-decimal.wmv = 0.0
+INFO:root:Tiempo requerido para ./bin-to-decimal.wmv = 0.001993417739868164
