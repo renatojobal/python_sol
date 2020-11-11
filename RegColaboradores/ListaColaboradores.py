@@ -17,7 +17,7 @@ colaborador_2020["8"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["9"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["10"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["11"] = {"Nombre":"...", "Email:": "..."}
-colaborador_2020["12"] = {"Nombre":"...", "Email:": "..."}
+colaborador_2020["12"] = {"Nombre":"Luis", "Email:": "lsantiago84@hotmail.com"}
 
 df = pd.DataFrame.from_dict(colaborador_2020, orient='index')
 print(df)
