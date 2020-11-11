@@ -5,7 +5,7 @@ import pandas as pd
 
 
 colaborador_2020 = {}
-colaborador_2020["1"] = {"Nombre":"...", "Email:": "..."}
+colaborador_2020["1"] = {"Nombre":"Jose", "Email:": "jmabad2@utpl.edu.ec"}
 colaborador_2020["1"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["2"] = {"Nombre":"...", "Email:": "..."}
 colaborador_2020["3"] = {"Nombre":"...", "Email:": "..."}
