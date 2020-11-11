@@ -31,7 +31,7 @@
        
        # Lista y agrega el servidor remoto original (sólo una vez)
        git remote -v
-       git remote add upstream https://github.com/lsantiago/MatlabIntermedio
+       git remote add upstream https://github.com/lsantiago/PythonIntermedio
        git remote -v
 
        % trae los ultimos cambios desde el servidor original (realizar de forma periodica)
