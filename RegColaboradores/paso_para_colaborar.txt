@@ -7,25 +7,27 @@
 [] 04. Abrir el repositorio https://github.com/lsantiago/PythonIntermedio y realizar un Fork
 [] 05. Clonar repositorio que se genero al realizar el Fork 
       >> git clone https://github.com/<su_usuario>/PythonIntermedio
-[] 06. Crear branch (rama) para colaborar 
+[] 06. Acceder a la carpeta que se genero "PythonIntermedio"
+      >> cd PythonIntermedio
+[] 07. Crear branch (rama) para colaborar 
       git checkout -b <nombre_rama_sin_espacios> Ej.
 
       >> git checkout -b RegName
-[] 07. Modificar archivo ListaColaboradores.py en la posición que corresponda.
-[] 08. Agregar cambios
+[] 08. Modificar archivo ListaColaboradores.py en la posición que corresponda.
+[] 09. Agregar cambios
       >> git add .                   Para todos los archivos modificados
       >> git add nombre_archivo      Para un solo archivo 
-[] 09. Registrar (commit) cambios en repositorio local
+[] 10. Registrar (commit) cambios en repositorio local
       git commit -m <comentario> Ej.
       
       >> git commit -m "Add Name Luis" 
-[] 10. Llevar cambios a servidor remoto
+[] 11. Llevar cambios a servidor remoto
       git push origin <nombre_rama> Ej.
 
       >> git push origin RegName
-[] 11. Realizar pull request (En git hub), de servidor remoto "Fork" a servidor original 
+[] 12. Realizar pull request (En git hub), de servidor remoto "Fork" a servidor original 
 
-[] 12. Traer nuevos cambios desde servidor original
+[] 13. Traer nuevos cambios desde servidor original
        # Regresa a la rama principal
        git checkout master
        
