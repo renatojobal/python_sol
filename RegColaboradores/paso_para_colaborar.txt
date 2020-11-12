@@ -53,7 +53,7 @@ git checkout -b ClaseNro5
 # moverse a la rama master
 git checkout master
 # descargar los cambios
-git pull upstream main
+git pull upstream master
 
 
 
