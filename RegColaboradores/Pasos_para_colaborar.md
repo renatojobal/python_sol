@@ -148,10 +148,10 @@ En cada clase se recomienda seguir los siguientes pasos
 
 ---
 ## Referencias
-[1] Bifurcar un repositorio - GitHub Docs. (2020). Retrieved 14 November 2020, from https://docs.github.com/es/free-pro-team@latest/github/getting-started-with-github/fork-a-repo
-[2] Trabajar con ramas en Git: git branch. (2020). Retrieved 14 November 2020, from https://desarrolloweb.com/articulos/trabajar-ramas-git.html
-[3] git commit | Atlassian Git Tutorial. (2020). Retrieved 14 November 2020, from https://www.atlassian.com/es/git/tutorials/saving-changes/git-commit#:~:text=El%20comando%20git%20commit%20captura,que%20se%20lo%20pidas%20expresamente.
-[4] ¿Qué son los pull requests y por qué valen la pena?. (2019). Retrieved 14 November 2020, from https://blog.nearsoftjobs.com/qu%C3%A9-son-los-pull-requests-y-por-qu%C3%A9-valen-la-pena-ed98d19d124e
+* [1] Bifurcar un repositorio - GitHub Docs. (2020). Retrieved 14 November 2020, from https://docs.github.com/es/free-pro-team@latest/github/getting-started-with-github/fork-a-repo
+* [2] Trabajar con ramas en Git: git branch. (2020). Retrieved 14 November 2020, from https://desarrolloweb.com/articulos/trabajar-ramas-git.html
+* [3] git commit | Atlassian Git Tutorial. (2020). Retrieved 14 November 2020, from https://www.atlassian.com/es/git/tutorials/saving-changes/git-commit#:~:text=El%20comando%20git%20commit%20captura,que%20se%20lo%20pidas%20expresamente.
+* [4] ¿Qué son los pull requests y por qué valen la pena?. (2019). Retrieved 14 November 2020, from https://blog.nearsoftjobs.com/qu%C3%A9-son-los-pull-requests-y-por-qu%C3%A9-valen-la-pena-ed98d19d124e
 
 ## Recursos adicionales
 #### Colaborar en repositorios públicos 
