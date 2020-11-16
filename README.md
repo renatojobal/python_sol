@@ -15,6 +15,7 @@ trae la experiencia de construir programas reales.
 
 ### Paralelo A
 - Luis, https://github.com/lsantiagoqc
+- Cristian Gaona, https://github.com/CristianGaona
 ...
 
 ### Paralelo B
