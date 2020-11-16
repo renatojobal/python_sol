@@ -14,9 +14,9 @@ trae la experiencia de construir programas reales.
 ## Periodo 2020-2021
 
 ### Paralelo A
-- Luis, https://github.com/lsantiagoqc
 - Cristhian Vásquez, https://github.com/cdvasquez
-...
+- Cristian Gaona, https://github.com/CristianGaona
+- Luis, https://github.com/lsantiagoqc
 
 ### Paralelo B
 - José Abad, https://github.com/joseabad123
