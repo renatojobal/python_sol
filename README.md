@@ -21,5 +21,6 @@ trae la experiencia de construir programas reales.
 - José Abad, https://github.com/joseabad123
 - Cristhian Jimenez, https://github.com/michael-jmz
 - Anthony Ortiz, https://github.com/AnthonyOrtiz
+- Ximena Puchaicela, https://github.com/Ximena1998
 
 
