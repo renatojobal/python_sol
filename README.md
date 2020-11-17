@@ -19,6 +19,8 @@ trae la experiencia de construir programas reales.
 - Estevan Atiencia, https://github.com/EstevanAtiencia
 - Marlon Pizarro, https://github.com/Alexander96pz
 - Luis, https://github.com/lsantiagoqc
+- Ivo Astudillo, https://github.com/iaastudillo
+
 
 ### Paralelo B
 - José Abad, https://github.com/joseabad123
