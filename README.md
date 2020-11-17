@@ -20,7 +20,7 @@ trae la experiencia de construir programas reales.
 - Marlon Pizarro, https://github.com/Alexander96pz
 - Luis, https://github.com/lsantiagoqc
 - Ivo Astudillo, https://github.com/iaastudillo
-
+- Luis Jaramillo, https://github.com/luisjaramillo6
 
 ### Paralelo B
 - José Abad, https://github.com/joseabad123
