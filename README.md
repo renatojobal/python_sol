@@ -15,7 +15,7 @@ trae la experiencia de construir programas reales.
 
 ### Paralelo A
 - Luis, https://github.com/lsantiagoqc
-...
+- Ivo Astudillo, https://github.com/iaastudillo
 
 ### Paralelo B
 - José Abad, https://github.com/joseabad123
