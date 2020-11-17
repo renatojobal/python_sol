@@ -14,12 +14,18 @@ trae la experiencia de construir programas reales.
 ## Periodo 2020-2021
 
 ### Paralelo A
+- Cristhian Vásquez, https://github.com/cdvasquez
+- Cristian Gaona, https://github.com/CristianGaona
+- Estevan Atiencia, https://github.com/EstevanAtiencia
+- Marlon Pizarro, https://github.com/Alexander96pz
 - Luis, https://github.com/lsantiagoqc
 - Ivo Astudillo, https://github.com/iaastudillo
+
 
 ### Paralelo B
 - José Abad, https://github.com/joseabad123
 - Cristhian Jimenez, https://github.com/michael-jmz
 - Anthony Ortiz, https://github.com/AnthonyOrtiz
+- Ximena Puchaicela, https://github.com/Ximena1998
 
 
