@@ -13,6 +13,7 @@ trae la experiencia de construir programas reales.
 ## Periodo 2020-2021
 
 ### Paralelo A
+- Luisa Bermeo, https://github.com/lfbermeo 
 - David Aguilar, https://github.com/davich95
 - Cristhian Vásquez, https://github.com/cdvasquez
 - Cristian Gaona, https://github.com/CristianGaona
