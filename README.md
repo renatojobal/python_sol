@@ -1,5 +1,4 @@
 # PythonIntermedio
-
 Dentro de la formación de un ingeniero, la programación es una de las tareas
 fundamentales, ya que muchas de las actividades profesionales exigen el
 conocimiento en este campo, por lo que el estudio de esta materia se
@@ -15,11 +14,16 @@ trae la experiencia de construir programas reales.
 
 ### Paralelo A
 - Luisa Bermeo, https://github.com/lfbermeo 
+- David Aguilar, https://github.com/davich95
 - Cristhian Vásquez, https://github.com/cdvasquez
 - Cristian Gaona, https://github.com/CristianGaona
 - Estevan Atiencia, https://github.com/EstevanAtiencia
 - Marlon Pizarro, https://github.com/Alexander96pz
 - Luis, https://github.com/lsantiagoqc
+- Ivo Astudillo, https://github.com/iaastudillo
+- Luis Jaramillo, https://github.com/luisjaramillo6
+- Luis Febre, https://github.com/febrel
+
 
 ### Paralelo B
 - José Abad, https://github.com/joseabad123
