@@ -14,6 +14,7 @@ trae la experiencia de construir programas reales.
 ## Periodo 2020-2021
 
 ### Paralelo A
+- David Aguilar, https://github.com/davich95
 - Cristhian Vásquez, https://github.com/cdvasquez
 - Cristian Gaona, https://github.com/CristianGaona
 - Estevan Atiencia, https://github.com/EstevanAtiencia
