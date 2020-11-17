@@ -23,6 +23,7 @@ trae la experiencia de construir programas reales.
 - Ivo Astudillo, https://github.com/iaastudillo
 - Luis Jaramillo, https://github.com/luisjaramillo6
 - Luis Febre, https://github.com/febrel
+- Freddy Cumbicus, https://github.com/Freddy-Cumbicus
 
 
 ### Paralelo B
