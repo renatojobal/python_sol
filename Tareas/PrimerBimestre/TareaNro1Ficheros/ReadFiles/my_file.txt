@@ -1,0 +1,6 @@
+This is a file that contains
+some text that you
+might need
+in order to run
+the example code
+in the task instructions.

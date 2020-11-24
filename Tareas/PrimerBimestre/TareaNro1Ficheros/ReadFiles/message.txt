@@ -1,0 +1,2 @@
+Congratulations!
+You managed to open this file and print it on the screen!
