@@ -1,0 +1,58 @@
+Literal:
+abc
+
+Pattern matching:
+.       - Any Character Except New Line
+\d      - Digit (0-9)
+\D      - Not a Digit (0-9)
+\w      - Word Character (a-z, A-Z, 0-9, _)
+\W      - Not a Word Character excluding _
+\s      - Whitespace (space, tab, newline)
+\S      - Not Whitespace (space, tab, newline)
+\t      - Tab
+\n      - New line
+
+Grouping:
+[]      - Matches Characters in brackets (ranges with -)
+[^ ]    - Matches Characters NOT in brackets
+|       - Or
+( )     - Group
+
+Quantifiers:
+*       - 0 or More
++       - 1 or More
+?       - 0 or One
+{3}     - Exact Number
+{3,4}   - Range of Numbers (Minimum, Maximum)
+{3,}   	- Range of Numbers (Minimum)
+
+Limits:
+^       - Beginning of a String
+$       - End of a String
+\b      - Word Boundary
+\B      - Not a Word Boundary
+
+Replace:
+$0		- Gets all the expression
+$1		- Gets grupo 1 content
+
+
+
+Problemas
+- Buscar el patrón 123-222-333
+  ^\d\d\d-\d\d\d-\d\d\d$
+  Mejora empleando cuatificadores
+  ^\d{3}-\d{3}-\d{3}$
+
+Validar  URL
+   http[s]?://www\.\w+\.\w+(\?\w+=\w+)?
+
+Busqueda de correos:
+   v1: \w+@\w+\.\w+
+   v2: \w+@\w+\.\w+(\.\w+)?
+   v3: ^[a-zA-Z0-9\.]+@\w+\.\w+(\.\w+)?
+
+Validar números de teléfonos
+   V1: ^\d{3}-\d{3}-\d{4} 
+   v2: \(?\d{3}\)?[-\./\s]\d{3}[-\./\s]\d{4}
+
